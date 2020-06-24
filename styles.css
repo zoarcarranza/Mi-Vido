@@ -1,0 +1,30 @@
+body {
+    background-color: #ffe7ad;
+}
+
+h1 {
+    color: #6a1051;
+    
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;   
+    border-color: #6a1051;
+    border-width: 10px;
+    width: 5%;
+
+}
+
+table {
+    table-layout: fixed;
+    width: 700px;
+}
+
+.foto {
+    color: #db75c5;
+}
+
+.secespecial {
+    color: #6a1051;
+}
